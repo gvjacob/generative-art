@@ -6,4 +6,4 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [quil "3.1.0"]]
   :source-paths ["src/clj"]
-  :aot ["generativeart.dynamic"])
+  :aot [generativeart.dynamic])
